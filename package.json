@@ -1,6 +1,6 @@
 {
   "name": "pika-plugin-unpkg-field",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Pika plugin that sets the unpkg field in pkg/package.json",
   "keywords": [
     "pika",

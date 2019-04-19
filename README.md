@@ -24,4 +24,4 @@ Setting the `unpkg` field in your `package.json` makes [https://unpkg.com/](http
 
 ## LICENSE
 
-[ISC]
+[ISC](LICENSE)

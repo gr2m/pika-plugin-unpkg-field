@@ -8,5 +8,5 @@
   ],
   "author": "Gregor Martynus (https://twitter.com/gr2m",
   "license": "ISC",
-  "repository": "https://github.com/gr2m/pika-plugin-unpkg-field"
+  "repository": "github:gr2m/pika-plugin-unpkg-field"
 }
